@@ -9,7 +9,7 @@ tabela "CUSTOMER", para isto eu uso a seguinte instrução:
 > **SELECT** * **FROM** CUSTOMER; 
 
 - A instrução **SELECT** é usada para fazer uma consulta em SQL, o caractere '*' significa que tudo será selecionado, a instrução **FROM** funciona como
-operador de referência à uma tabela, 'CUSTOMER' por sua vez é o nome da tabela (que está sendo referenciada neste caso). o ponto e vírgula é usado justamente para? Pasmem, é pra indicar o fim de uma instrução, neste caso por ser uma instrução única não se faz necessessário o uso dele, porém é provável que futuramente você vai fazer consultas mais complexas e detalhadas, onde até va 
+operador de referência à uma tabela, 'CUSTOMER' por sua vez é o nome da tabela (que está sendo referenciada neste caso). o ponto e vírgula é usado justamente para? Pasmem, é pra indicar o fim de uma instrução, neste caso por ser uma instrução única não se faz necessessário o uso dele, porém é provável que futuramente você vai fazer consultas mais complexas e detalhadas, onde até vai ser necessário quebrar em duas ou mais instruções diferentes, pra não esquecer é sempre bom colocar.
 
 nota: Por convenção, toda instrução SQL deve ser digitado em maiúsculo.
 
