@@ -5,6 +5,9 @@ nota: Uso o SQlite para trabalhar com SQL(muito prático e leve!)
 
 - Começarei importando o arquivo rexon_metals.db (disponível em: https://github.com/thomasnield/oreilly_getting_started_with_sql). Já inicio consultando a
 tabela "CUSTOMER", para isto eu uso a seguinte instrução:
-- SELECT * FROM CUSTOMER; 
 
+- **SELECT** * **FROM** CUSTOMER; 
+
+- A instrução **SELECT** é usada para fazer uma consulta em SQL, o caractere '*' significa que tudo será selecionado, a instrução **FROM** funciona como
+operador de referência à uma tabela, 'CUSTOMER' por sua vez é o nome da tabela (que está sendo referenciada neste caso).
 
