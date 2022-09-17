@@ -4,4 +4,4 @@ Usarei uma lista de bancos de dados prontos, para seguir a trilogia do livro, in
 --> https://github.com/thomasnield/oreilly_getting_started_with_sql;
 
 - Isso é apenas uma documentação da minha rotina de estudos, consequentemente serve como um repositório para me servir de consulta para recordar as 
-instruções SQL caso me esqueça, o que também implica em dizer que este material pode ser útil para outra pessoa,já que é um repositório público.
+instruções SQL caso me esqueça, o que também implica em dizer que este material pode ser útil para outra pessoa, já que é um repositório público.
