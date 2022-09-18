@@ -13,3 +13,8 @@ operador de referência à uma tabela, 'CUSTOMER' por sua vez é o nome da tabel
 
 nota: Por convenção, toda instrução SQL deve ser digitado em maiúsculo.
 
+- Expressões usando **SELECT**:
+
+> **SELECT** PRODUCT_ID, DESCRIPTION, PRICE, PRICE * 1.07 **AS** TAXED_PRICE **FROM** PRODUCT;
+
+- Aqui, após usar a 1° expressão SQL citada neste documento, conseguimos vizualizar todas as colunas da nossa tabela, depois disso, fazemos uma seleção de cada coluna que queremos vilualizar
